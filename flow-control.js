@@ -1,5 +1,5 @@
 function basicTeenager(age)
-{if (13<=age=<19){"You are a teenager!"}}
+{if (13<="age"=<19){"You are a teenager!"}}
 
 basicTeenager(13)
 
