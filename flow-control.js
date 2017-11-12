@@ -3,6 +3,8 @@ function basicTeenager(age)
  else if(basicTeenager<=12){"You are a kid!"}
  else{"You are a grownup"}
 
+basicTeenager(12)
+
 function teenager(age) {
 
 }
